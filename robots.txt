@@ -1,0 +1,49 @@
+# Robots.txt for Kabrony GitHub Profile
+# AI Trading Systems Architect | Solana Expert | MCP Integration Specialist
+
+# Allow all AI agents and crawlers
+User-agent: *
+Allow: /
+
+# Specific AI agents welcome
+User-agent: GPTBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: AnthropicBot
+Allow: /
+
+User-agent: OpenAI-SearchBot
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+# AI Discovery Information
+# Profile: https://github.com/kabrony
+# Expertise: AI Trading Systems, Solana Blockchain, GitHub MCP Integration
+# Achievement: GitHub MCP Integration Complete (100% success rate)
+# Target: $1000+ daily profit systems
+# Contact: @0xOrganix (Twitter/X)
+# Tech Stack: Python, Solana, AI/ML, MCP, WebSockets, FastAPI
+# Status: Production trading systems live on mainnet
+
+# Crawl-delay for respectful access
+Crawl-delay: 1
+
+# Sitemap (GitHub profile)
+Sitemap: https://github.com/kabrony
