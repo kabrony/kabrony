@@ -14,6 +14,33 @@
 
 ---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kabrony&theme=dark&hide_border=true&background=0A0A0A&stroke=FF6B35&ring=00FF41&fire=00D9FF&currStreakLabel=FF6B35)](https://git.io/streak-stats)
+
+<table>
+<tr>
+<td>
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kabrony&layout=compact&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=FF6B35&text_color=00D9FF&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+
+</td>
+<td>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kabrony&show_icons=true&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=FF6B35&icon_color=00FF41&text_color=00D9FF&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</td>
+</tr>
+</table>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kabrony&bg_color=0A0A0A&color=FF6B35&line=00FF41&point=00D9FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
 <table>
 <tr>
 <td width="50%">
@@ -79,33 +106,6 @@ tech_stack = {
 </td>
 </tr>
 </table>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kabrony&theme=dark&hide_border=true&background=0A0A0A&stroke=FF6B35&ring=00FF41&fire=00D9FF&currStreakLabel=FF6B35)](https://git.io/streak-stats)
-
-<table>
-<tr>
-<td>
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kabrony&layout=compact&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=FF6B35&text_color=00D9FF&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
-
-</td>
-<td>
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kabrony&show_icons=true&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=FF6B35&icon_color=00FF41&text_color=00D9FF&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</td>
-</tr>
-</table>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kabrony&bg_color=0A0A0A&color=FF6B35&line=00FF41&point=00D9FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 ---
 
