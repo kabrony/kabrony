@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9945FF&center=true&vCenter=true&width=500&lines=AI+Trading+Systems+Expert;Solana+%2B+Blockchain+Integration;GitHub+MCP+Integration+Complete;Real-time+Trading+Analytics;SuperClaude+Framework+Developer" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-9945FF?style=for-the-badge&logo=solana&logoColor=white)](https://github.com/kabrony)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kabrony95)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/0xOrganix)
 [![Email](https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kabrony@tuyamail.com)
 
 </div>
